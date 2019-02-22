@@ -15,10 +15,6 @@ import javax.swing.JOptionPane;
 import javax.swing.JPasswordField;
 import javax.swing.JTextField;
 
-import org.omg.CORBA.PUBLIC_MEMBER;
-import org.omg.PortableServer.POAPackage.WrongAdapter;
-
-import pl.jaceksysiak.designpatterns.demo1.model.Database;
 import pl.jaceksysiak.designpatterns.demo1.model.Model;
 
 public class View extends JFrame implements ActionListener {
