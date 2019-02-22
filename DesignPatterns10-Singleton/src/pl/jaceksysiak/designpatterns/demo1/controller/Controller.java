@@ -14,6 +14,7 @@ public class Controller implements LoginListener {
 		this.model = model;
 	}
 
+	
 	@Override
 	public void loginPerformed(LoginFormEvent event) {
 		

@@ -12,7 +12,7 @@ public class Database {
 		return instance;
 	}
 	
-	/*
+	/*  lazy instantiaton
 	private static Database instanceOld;
 	
 	public static Database getInstanceOld() {

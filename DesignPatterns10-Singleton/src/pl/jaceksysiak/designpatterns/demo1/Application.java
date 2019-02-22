@@ -6,6 +6,7 @@ import pl.jaceksysiak.designpatterns.demo1.controller.Controller;
 import pl.jaceksysiak.designpatterns.demo1.model.Model;
 import pl.jaceksysiak.designpatterns.demo1.view.View;
 
+
 public class Application {
 
 	public static void main(String[] args) {
