@@ -10,6 +10,7 @@ public class LoginFormEvent {
 		this.password = password;
 	}
 
+	
 	public String getName() {
 		return name;
 	}
