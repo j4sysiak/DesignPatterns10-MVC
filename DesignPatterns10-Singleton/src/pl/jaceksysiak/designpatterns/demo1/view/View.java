@@ -133,9 +133,9 @@ public class View extends JFrame implements ActionListener {
 	);
    
 		
-		setSize(600, 500);
-		setDefaultCloseOperation(EXIT_ON_CLOSE);
-		setVisible(true);
+		this.setSize(600, 500);
+		this.setDefaultCloseOperation(EXIT_ON_CLOSE);
+		this.setVisible(true);
 	}
 
 	//implementacja metody interfejsu:  ActionListener
